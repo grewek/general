@@ -24,10 +24,10 @@ Language: C
 Dependencies: None
 Features: virtual machine that is Turing complete, an assembly language which is translated into bytecode
 
-Time Frame: 06.07.2026 - ??? (Time format: DD-MM-YYYY)
+Start: 06.07.2026
 
 Times:
- (Monday 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition
+ - (Monday 06.07.2026 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition
 
 Status: __in progress__
 
