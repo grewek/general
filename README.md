@@ -26,6 +26,9 @@ Features: virtual machine that is Turing complete, an assembly language which is
 
 Time Frame: 06.07.2026 - ??? (Time format: DD-MM-YYYY)
 
+Times:
+ (Monday 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition
+
 Status: __in progress__
 
 Link: [stacky-the-friendly-vm](https://github.com/grewek/stacky-the-friendly-vm)
