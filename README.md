@@ -9,7 +9,26 @@ to explain domain specific terminology.
 
 ## new projects
 
+All new projects in my repositories have some constraints:
 
+- the project needs to be finished in the time of one work week (40 hours)
+- public releases are available as an AppImage or Executable
+- container based releases should be available as well
+- all projects are documented
+
+### Virtual-Machine (Stack based) 
+
+A stack based virtual machine
+
+Language: C
+Dependencies: None
+Features: virtual machine that is Turing complete, an assembly language which is translated into bytecode
+
+Time Frame: 06.07.2026 - ??? (Time format: DD-MM-YYYY)
+
+Status: __in progress__
+
+Link: [stacky-the-friendly-vm](https://github.com/grewek/stacky-the-friendly-vm)
 ## old projects
 
 ### Gameboy Emulator
@@ -28,7 +47,7 @@ Link: [gboyrust](https://github.com/grewek/gboyrust)
 
 A Forth implementation in C 
 
-Features: Virtual-Machine, Forth-Lexer, Forth-Parser
+Features: virtual machine, forth lexer, forth parser
 
 Dependencies: None,
 
@@ -59,4 +78,4 @@ Link: [dielectric dreams](https://github.com/grewek/dielectric_dreams)
 An operating system for x86_64 with custom bootloader.
 Dependencies: None
 
-Link: [cacao_os](https://github.com/grewek/cacao_os)
+Link: [cacaoos](https://github.com/grewek/cacaoos)
