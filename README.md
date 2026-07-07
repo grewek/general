@@ -21,13 +21,20 @@ All new projects in my repositories have some constraints:
 A stack based virtual machine
 
 Language: C
+
 Dependencies: None
+
 Features: virtual machine that is Turing complete, an assembly language which is translated into bytecode
 
 Start: 06.07.2026
 
-Times:
+Work log:
  - (Monday 06.07.2026 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition
+ - (Tuesday 06.07.2026 9:00 - 11:05) (2,083 Hours) Added more arithmetic instructions, byte code can now written to a file and read back into the vm
+
+Work time: 5,33 Hours
+
+Time left: 34,67 Hours
 
 Status: __in progress__
 
