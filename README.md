@@ -32,9 +32,11 @@ Work log:
  - (Monday 06.07.2026 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition
  - (Tuesday 06.07.2026 9:00 - 11:05) (2,083 Hours) Added more arithmetic instructions, byte code can now written to a file and read back into the vm
  - (Wednesday 07.07.2026 9:30 - 10:30) (1 Hour) Added function to load assembler file from disk and first example
-Work time: 6,33 Hours
+ - (Thursday 08.07.2026 10:00 - 12:00) (2 Hour) Bug hunting split_by_delimiter did not work as expected
 
-Time left: 33,67 Hours
+Work time: 8,33 Hours
+
+Time left: 31,67 Hours
 
 Status: __in progress__
 
