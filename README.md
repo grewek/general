@@ -34,10 +34,12 @@ Work log:
  - (Wednesday 07.07.2026 9:30 - 10:30) (1 Hour) Added function to load assembler file from disk and first example
  - (Thursday 08.07.2026 10:00 - 12:00) (2 Hour) Bug hunting split_by_delimiter did not work as expected
  - (Friday 09.07.2026 10:00 - 11:15) (1,25 Hours) Add bytecode compiler
+ - (Monday 13.07.2026 10:00 - 11:40) (1,67 Hours) Add CLI interface and Jump directives to the virtual machine. Documented the Opcodes
 
-Work time: 9,58 Hours
 
-Time left: 30,42 Hours
+Work time: 11,25 Hours
+
+Time left: 28,75 Hours
 
 Status: __in progress__
 
