@@ -37,9 +37,9 @@ Work log:
  - (Monday 13.07.2026 10:00 - 11:40) (1,67 Hours) Add CLI interface and Jump directives to the virtual machine. Documented the Opcodes
  - (Tuesday 14.07.2026 10:00 - 11:30) (1,5 Hours) Add compare function for strings and new instructions (duplicate, jump equal, jump not equal). Updated the README in the repository
 
-Work time: 11,25 Hours
+Work time: 12,75 Hours
 
-Time left: 28,75 Hours
+Time left: 27,25 Hours
 
 Status: __in progress__
 
