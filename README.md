@@ -35,11 +35,12 @@ Work log:
  - (Thursday 08.07.2026 10:00 - 12:00) (2 Hour) Bug hunting split_by_delimiter did not work as expected
  - (Friday 09.07.2026 10:00 - 11:15) (1,25 Hours) Add bytecode compiler
  - (Monday 13.07.2026 10:00 - 11:40) (1,67 Hours) Add CLI interface and Jump directives to the virtual machine. Documented the Opcodes
- - (Tuesday 14.07.2026 10:00 - 11:30) (1,5 Hours) Add compare function for strings and new instructions (duplicate, jump equal, jump not equal). Updated the README in the repository
+ - (Tuesday 14.07.2026 10:00 - 11:30) (1,5 Hours) Add compare function for strings and new instructions (duplicate, jump equal, jump not equal). Updated the README in the repositories
+ - (Wednesday 15.07.2026 10:00 - 11:10) (1,17 Hours) Add logic to handle parser errors to the compiler, more documentation added.
 
-Work time: 12,75 Hours
+Work time: 13,92 Hours
 
-Time left: 27,25 Hours
+Time left: 26,08 Hours
 
 Status: __in progress__
 
