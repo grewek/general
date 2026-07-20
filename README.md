@@ -39,10 +39,11 @@ Work log:
  - (Wednesday 15.07.2026 10:00 - 11:10) (1,17 Hours) Add logic to handle parser errors to the compiler, more documentation added.
  - (Thursday 16.07-2026 10:10 - 11:30) (1,33 Hours) Add more conditional jumps (lower, lower equal, bigger, bigger equal), a comparision instruction and struct for handling datatypes like strings and bools.
  - (Friday 17.07.2026 9:57 - 11:37) (1,67 Hours)
+ - (Monday 10:30 - 11:10) (0,62 Hours) Add store instruction and parse it
 
-Work time: 16,92 Hours
+Work time: 17,54 Hours
 
-Time left: 23,08 Hours
+Time left: 22,46 Hours
 
 Status: __in progress__
 
