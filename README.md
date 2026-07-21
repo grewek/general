@@ -39,13 +39,14 @@ Work log:
  - (Wednesday 15.07.2026 10:00 - 11:10) (1,17 Hours) Add logic to handle parser errors to the compiler, more documentation added.
  - (Thursday 16.07-2026 10:10 - 11:30) (1,33 Hours) Add more conditional jumps (lower, lower equal, bigger, bigger equal), a comparision instruction and struct for handling datatypes like strings and bools.
  - (Friday 17.07.2026 9:57 - 11:37) (1,67 Hours)
- - (Monday 10:30 - 11:10) (0,62 Hours) Add store instruction and parse it
- - (Monday 16:15 - 17:32) (1,82 Hours) more logic for string storage added.
+ - (Monday 20.07.2026 10:30 - 11:10) (0,62 Hours) Add store instruction and parse it
+ - (Monday 20.07.2026 16:15 - 17:32) (1,82 Hours) more logic for string storage added.
+ - (Tuesday 21.07.2026 10:00 - 11:13) (1,22 Hours) Removed a unnecessary new keyword 'store'. Changed the logic so that push can store data into the data segment.
 
 
-Work time: 19,36 Hours
+Work time: 20,58 Hours
 
-Time left: 20,64 Hours
+Time left: 19,42 Hours
 
 Status: __in progress__
 
