@@ -40,13 +40,14 @@ Work log:
  - (Thursday 16.07-2026 10:10 - 11:30) (1,33 Hours) Add more conditional jumps (lower, lower equal, bigger, bigger equal), a comparision instruction and struct for handling datatypes like strings and bools.
  - (Friday 17.07.2026 9:57 - 11:37) (1,67 Hours)
  - (Monday 20.07.2026 10:30 - 11:10) (0,62 Hours) Add store instruction and parse it
- - (Monday 20.07.2026 16:15 - 17:32) (1,82 Hours) more logic for string storage added.
+ - (Monday 20.07.2026 16:15 - 17:32) (1,82 Hours) More logic for string storage added.
  - (Tuesday 21.07.2026 10:00 - 11:13) (1,22 Hours) Removed a unnecessary new keyword 'store'. Changed the logic so that push can store data into the data segment.
+ - (Wednesday 22.07.2026 10:00 - 11:38) (1,63 Hours) Started to work on support for static 64-bit value arrays.
 
 
-Work time: 20,58 Hours
+Work time: 22,21 Hours
 
-Time left: 19,42 Hours
+Time left: 17,79 Hours
 
 Status: __in progress__
 
