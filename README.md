@@ -44,11 +44,13 @@ Work log:
  - (Tuesday 21.07.2026 10:00 - 11:13) (1,22 Hours) Removed a unnecessary new keyword 'store'. Changed the logic so that push can store data into the data segment.
  - (Wednesday 22.07.2026 10:00 - 11:38) (1,63 Hours) Started to work on support for static 64-bit value arrays.
  - (Thursday 23.07.2026 10:00 - 11:00) (1,00 Hours) Finished work on array implementation.
+ - (Friday 24.07.2026 10:13 - 11:42) (1,48 Hours) Started work on read instruction.
 
 
-Work time: 23,21 Hours
 
-Time left: 16,79 Hours
+Work time: 24,69 Hours
+
+Time left: 15,31 Hours
 
 Status: __in progress__
 
