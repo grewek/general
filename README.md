@@ -45,12 +45,13 @@ Work log:
  - (Wednesday 22.07.2026 10:00 - 11:38) (1,63 Hours) Started to work on support for static 64-bit value arrays.
  - (Thursday 23.07.2026 10:00 - 11:00) (1,00 Hours) Finished work on array implementation.
  - (Friday 24.07.2026 10:13 - 11:42) (1,48 Hours) Started work on read instruction.
+ - (Monday 27.07.2026 10:00 - 11:00) (1 Hour) Planned the elements index feature, added documentation
 
 
 
-Work time: 24,69 Hours
+Work time: 25,69 Hours
 
-Time left: 15,31 Hours
+Time left: 14,31 Hours
 
 Status: __in progress__
 
