@@ -46,12 +46,13 @@ Work log:
  - (Thursday 23.07.2026 10:00 - 11:00) (1,00 Hours) Finished work on array implementation.
  - (Friday 24.07.2026 10:13 - 11:42) (1,48 Hours) Started work on read instruction.
  - (Monday 27.07.2026 10:00 - 11:00) (1 Hour) Planned the elements index feature, added documentation
+ - (Tuesday 28.07.2026 10:30 - 11:34) (1,07 Hours) Developing the pointer table, and checking if the outputted format is correct.
 
 
 
-Work time: 25,69 Hours
+Work time: 26,76 Hours
 
-Time left: 14,31 Hours
+Time left: 13,24 Hours
 
 Status: __in progress__
 
