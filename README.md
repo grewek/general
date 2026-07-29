@@ -29,13 +29,13 @@ Features: virtual machine that is Turing complete, an assembly language which is
 Start: 06.07.2026
 
 Work log:
- - (Monday 06.07.2026 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition
- - (Tuesday 06.07.2026 9:00 - 11:05) (2,083 Hours) Added more arithmetic instructions, byte code can now written to a file and read back into the vm
- - (Wednesday 07.07.2026 9:30 - 10:30) (1 Hour) Added function to load assembler file from disk and first example
- - (Thursday 08.07.2026 10:00 - 12:00) (2 Hour) Bug hunting split_by_delimiter did not work as expected
- - (Friday 09.07.2026 10:00 - 11:15) (1,25 Hours) Add bytecode compiler
+ - (Monday 06.07.2026 8:00 - 11:15) (3,25 Hours) Implemented a basic machine with support for push, pop and addition.
+ - (Tuesday 06.07.2026 9:00 - 11:05) (2,083 Hours) Added more arithmetic instructions, byte code can now written to a file and read back into the vm.
+ - (Wednesday 07.07.2026 9:30 - 10:30) (1 Hour) Added function to load assembler file from disk and first example.
+ - (Thursday 08.07.2026 10:00 - 12:00) (2 Hour) Bug hunting split_by_delimiter did not work as expected.
+ - (Friday 09.07.2026 10:00 - 11:15) (1,25 Hours) Add bytecode compiler.
  - (Monday 13.07.2026 10:00 - 11:40) (1,67 Hours) Add CLI interface and Jump directives to the virtual machine. Documented the Opcodes
- - (Tuesday 14.07.2026 10:00 - 11:30) (1,5 Hours) Add compare function for strings and new instructions (duplicate, jump equal, jump not equal). Updated the README in the repositories
+ - (Tuesday 14.07.2026 10:00 - 11:30) (1,5 Hours) Add compare function for strings and new instructions (duplicate, jump equal, jump not equal). Updated the README in the repositories.
  - (Wednesday 15.07.2026 10:00 - 11:10) (1,17 Hours) Add logic to handle parser errors to the compiler, more documentation added.
  - (Thursday 16.07-2026 10:10 - 11:30) (1,33 Hours) Add more conditional jumps (lower, lower equal, bigger, bigger equal), a comparision instruction and struct for handling datatypes like strings and bools.
  - (Friday 17.07.2026 9:57 - 11:37) (1,67 Hours) Started work on store instruction.
@@ -45,14 +45,14 @@ Work log:
  - (Wednesday 22.07.2026 10:00 - 11:38) (1,63 Hours) Started to work on support for static 64-bit value arrays.
  - (Thursday 23.07.2026 10:00 - 11:00) (1,00 Hours) Finished work on array implementation.
  - (Friday 24.07.2026 10:13 - 11:42) (1,48 Hours) Started work on read instruction.
- - (Monday 27.07.2026 10:00 - 11:00) (1 Hour) Planned the elements index feature, added documentation
+ - (Monday 27.07.2026 10:00 - 11:00) (1 Hour) Planned the elements index feature, added documentation.
  - (Tuesday 28.07.2026 10:30 - 11:34) (1,07 Hours) Developing the pointer table, and checking if the outputted format is correct.
+ - (Thursday 29.07.2026 10:00 - 11:00) (1 Hour) the read instruction is now using the pointer table to read the correct element. Changed some design decisions.
 
 
+Work time: 27,76 Hours
 
-Work time: 26,76 Hours
-
-Time left: 13,24 Hours
+Time left: 12,24 Hours
 
 Status: __in progress__
 
