@@ -47,12 +47,13 @@ Work log:
  - (Friday 24.07.2026 10:13 - 11:42) (1,48 Hours) Started work on read instruction.
  - (Monday 27.07.2026 10:00 - 11:00) (1 Hour) Planned the elements index feature, added documentation.
  - (Tuesday 28.07.2026 10:30 - 11:34) (1,07 Hours) Developing the pointer table, and checking if the outputted format is correct.
- - (Thursday 29.07.2026 10:00 - 11:00) (1 Hour) the read instruction is now using the pointer table to read the correct element. Changed some design decisions.
+ - (Wednesday 29.07.2026 10:00 - 11:00) (1 Hour) the read instruction is now using the pointer table to read the correct element. Changed some design decisions.
+ - (Thursday 30.07.2026 10:18 - 11:12) (0,9 Hours) Implemented the exchange instruction, planned and implemented a sum example, started working on write instruction
 
 
-Work time: 27,76 Hours
+Work time: 28,66 Hours
 
-Time left: 12,24 Hours
+Time left: 11,34 Hours
 
 Status: __in progress__
 
