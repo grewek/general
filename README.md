@@ -50,11 +50,12 @@ Work log:
  - (Wednesday 29.07.2026 10:00 - 11:00) (1 Hour) the read instruction is now using the pointer table to read the correct element. Changed some design decisions.
  - (Thursday 30.07.2026 10:18 - 11:12) (0,9 Hours) Implemented the exchange instruction, planned and implemented a sum example, started working on write instruction
  - (Friday 31.07.2026 10:15 - 11:15) (1 Hour) Implemented write opcode, add a sum loop example and change compare and jump instructions to pop values instead of only peeking them.
+ - (Monday 03.08.2026 10:00 - 11:08) (1,13 Hours) Added more instructions, fixed a bug and enhanced the documentation. Setup the GitHub workflow for building and generating an artifact.
 
 
-Work time: 29,66 Hours
+Work time: 30,79 Hours
 
-Time left: 10,34 Hours
+Time left: 9,21 Hours
 
 Status: __in progress__
 
