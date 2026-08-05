@@ -34,5 +34,5 @@
 
  - (Monday 03.08.2026 10:00 - 11:08) (1,13 Hours) Added more instructions, fixed a bug and enhanced the documentation. Setup the GitHub workflow for building and generating an artifact.
  - (Tuesday 04.08.2026 10:15 - 11:30) (1,25 Hours) Fixed a bug, that prevented the sum_loop example from running as expected, added a new loop construct.
-
+ - (Wednesday 05.08.2026 10:15 - 11:15) (1 Hour) Added length opcode, expanded the documentation and started planning a bytecode parser that is independent from the actual c-structures data.
 
