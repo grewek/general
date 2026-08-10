@@ -30,9 +30,9 @@ Start: 06.07.2026
 
 Worklog: For the working log see `logs/stacky_log.md` in this repository.
 
-Work time: 34,62Hours
+Work time: 35,62Hours
 
-Time left: 5,38 Hours
+Time left: 4,38 Hours
 
 Status: __in progress__
 
