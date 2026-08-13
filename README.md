@@ -16,7 +16,31 @@ All new projects in my repositories have some constraints:
 - container based releases should be available as well
 - all projects are documented
 
-### Virtual-Machine (Stack based) 
+### Hypertext-Marker (Markdown Parser)
+
+A markdown to hypertext parser library.
+
+Language: TypeScript
+
+Environment: Node
+
+Dependencies: None
+
+Development Dependencies: Vitest
+
+Features: Takes a "GitHub flavored markdown file"(gfm) and converts it into a html string.
+
+Worklog: For the working log see `logs/hypertext_marker.md` in this repository.
+
+Start: 14.08.2026
+
+Work time: 0 Hours
+
+Time left: 40 Hours
+
+Status: __In Progress__
+
+### Stacky-the-friendly-vm (Virtual Machine) 
 
 A stack based virtual machine
 
@@ -34,9 +58,10 @@ Work time: 37,62Hours
 
 Time left: 2,38 Hours
 
-Status: __in progress__
+Status: __DONE__
 
 Link: [stacky-the-friendly-vm](https://github.com/grewek/stacky-the-friendly-vm)
+
 ## old projects
 
 ### Gameboy Emulator
