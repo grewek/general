@@ -32,9 +32,9 @@ Features: Takes a "GitHub flavored markdown file"(gfm) and converts it into a ht
 
 Worklog: For the working log see `logs/hypertext_marker.md` in this repository.
 
-Start: 14.08.2026
+Start: 13.08.2026
 
-Work time: 0 Hours
+Work time: 0.5 Hours
 
 Time left: 40 Hours
 
