@@ -34,9 +34,9 @@ Worklog: For the working log see `logs/hypertext_marker.md` in this repository.
 
 Start: 13.08.2026
 
-Work time: 3 Hours
+Work time: 4 Hours
 
-Time left: 39 Hours
+Time left: 36 Hours
 
 Status: __In Progress__
 
