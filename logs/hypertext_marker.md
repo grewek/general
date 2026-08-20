@@ -9,3 +9,4 @@
 
 - (Monday 17.08.2026) (1.5 Hours) Read the common markdown specs, changed the way to parse the input as common markdown is not context free.
 - (Tuesday 18.08.2026) (1 Hour) Add Handling of atx-headers to the lexer.
+- (Thursday 20.08.2026) (1.5 Hours) Changed the resulting type of tokens into a discriminated union type, to have more information about the token at a later time in the parsing process.
