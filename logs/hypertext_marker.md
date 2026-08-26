@@ -12,3 +12,4 @@
 
 ## Week 3
 - (Monday 24.08.2026) (1 Hour) Simplified the lexer, it now knows only symbols as it should be. It no longer tries to find headings or other parsing related stuff.
+- (Wednesday 26.08.2026) (2 Hours) Added additional logic to tokenize identifiers, started to cleanup the lexer logic a bit.
