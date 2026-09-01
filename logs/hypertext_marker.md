@@ -15,3 +15,6 @@
 - (Wednesday 26.08.2026) (2 Hours) Added additional logic to tokenize identifiers, started to cleanup the lexer logic a bit.
 - (Thursday 27.08.2026) (1 Hour) Finished up the started refactoring of the lexer code. Added a more complex test, to make sure that more complex markdown documents are parsed as expected.
 - (Friday 28.08.2026) (1 Hour) Add a test for parsing blocks, started to design the necessary parser API.
+
+## Week 4
+-  (Tuesday 01.09.2026) (1 Hour) Add necessary logic for parsing blocks, the logic is still buggy and needs a bit of debugging in the next step.
